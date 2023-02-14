@@ -1,0 +1,9 @@
+Abri o link do repositório no gitpod.io/#
+instalar:
+  pip install flask
+  pip install python-dotenv
+  pip freeze> requirements.txt
+Criar arquivo '.flaskenv' sem extensão // para executar automático no browser
+Usando comandos 'flask run' para rodar
+
+...
